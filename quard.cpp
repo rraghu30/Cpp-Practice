@@ -15,7 +15,7 @@ int main()
   {
     cout<<" Roots are real and equal :"<<endl;
     x = y = -b/(2*a);
-    cout<<"Roots are "<< x << y <<endl;
+    cout<<"Roots are "<< x << y <<endl; 
   }
   else if(d>0)
   {

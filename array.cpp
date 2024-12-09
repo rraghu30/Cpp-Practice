@@ -39,12 +39,12 @@ int main()
       cout<< third[i]<< " ";
     }
 
-  n = 10;
+/*   n = 10;
     //printing the Array(fifth,10);
 
     int fifthSize = sizeof(fifth)/sizeof(int);
     cout<<"Size of fifth is " << fifthSize <<endl;
-
+*/
     char ch[5] = { 'a', 'b', 'c', 'r', 'p'};
     cout<<endl<< ch[3] <<endl;
 
